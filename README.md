@@ -15,7 +15,9 @@
 [![YouTube](https://img.shields.io/badge/RenzzMeme-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuzSYNrlpwdqoQBANz981tA)
 
 ## What im Listening?
+```html
 <script type="text/javascript" src="https://dengar.molekfm.audio/embed.js" data-player="" id="player-embed"></script>
+```
 
 ## My Stats
 ![Github stat](https://github-readme-stats.vercel.app/api?username=adiirxyz&theme=midnight-purple&show_icons=true) 
