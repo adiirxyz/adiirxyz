@@ -14,11 +14,6 @@
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/RenzzMeme-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuzSYNrlpwdqoQBANz981tA)
 
-## What im Listening?
-```html
-<script type="text/javascript" src="https://dengar.molekfm.audio/embed.js" data-player="" id="player-embed"></script>
-```
-
 ## My Stats
 ![Github stat](https://github-readme-stats.vercel.app/api?username=adiirxyz&theme=midnight-purple&show_icons=true) 
 
@@ -30,3 +25,22 @@
 ![Metrics](https://metrics.lecoq.io/adiirxyz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
+
+## My Info
+```json
+{
+   "name": "Adii Renzyy",
+   "age": "21",
+   "born_date": "18/March",
+   "likes": ["listening to sad song", "sakana🗿💅", "coding", "heking💀", "play pubg"],
+   "dislikes": ["my crash", "nothing"],
+   "favorite_song": {
+                      "song": "heat waves",
+                      "artist": "glass animals"
+                    },
+   "favorite_DJ": "dj tangkis dang by dj sopan",
+   "status": "single",
+   "favorite_sport": "badminton",
+   "number": "60199782326",
+}
+```
