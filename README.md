@@ -4,7 +4,7 @@
 
 <div align="center">
         
-> _Hi :wave:, my name is Adii Renzy Andre.. and still 21yrs_
+> _Hi :wave:, my name is Adii Renzy Andre.. and im not died_
 
 </div>
 
